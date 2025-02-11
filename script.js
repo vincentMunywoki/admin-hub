@@ -9,6 +9,7 @@ allSideMenu.forEach(item=> {
 		})
 		li.classList.add('active');
 	})
+	
 });
 
 
